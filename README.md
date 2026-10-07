@@ -6,3 +6,6 @@ Learning Git and GitHub fundamentals
 - Branches
 - Commits
 - Pull requests
+
+## Local Git practice
+This section was created locally using Git and VS Code.
